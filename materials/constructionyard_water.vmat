@@ -13,23 +13,23 @@ Layer0
 
 	//---- Fog ----
 	g_vWaterFogColor "[0.282353 0.819608 0.800000 1.000000]"
-	g_vWaterFogDistanceFalloff "[521.795 1.000]"
+	g_vWaterFogDistanceFalloff "[201.923 0.110]"
 
 	//---- Tessellation ----
-	fTesselationFalloff "2048.000"
+	fTesselationFalloff "986.593"
 	sMaxTesselation "50"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
 	g_nScaleTexCoordVByModelScaleAxis "0"
 	g_vTexCoordOffset "[0.000 0.000]"
-	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScale "[0.250 0.250]"
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
 
 	//---- Water ----
-	g_fAmplitude "2.815"
-	g_fPhase "5.926"
-	g_fScale "2.222"
+	g_fAmplitude "9.333"
+	g_fPhase "5.630"
+	g_fScale "1.778"
 	g_fSpeed "2.667"
 	g_fWeight "1.194"
 }
