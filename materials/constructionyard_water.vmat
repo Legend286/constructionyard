@@ -16,7 +16,7 @@ Layer0
 	g_vWaterFogDistanceFalloff "[201.923 0.110]"
 
 	//---- Tessellation ----
-	fTesselationFalloff "986.593"
+	fTesselationFalloff "2048.000"
 	sMaxTesselation "50"
 
 	//---- Texture Coordinates ----
@@ -27,9 +27,9 @@ Layer0
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
 
 	//---- Water ----
-	g_fAmplitude "9.333"
-	g_fPhase "5.630"
-	g_fScale "1.778"
-	g_fSpeed "2.667"
-	g_fWeight "1.194"
+	g_fAmplitude "7.000"
+	g_fPhase "2.000"
+	g_fScale "2.000"
+	g_fSpeed "1.000"
+	g_fWeight "5.007"
 }
